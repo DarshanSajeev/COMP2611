@@ -1,0 +1,55 @@
+- breadth-first,
+– depth-first, with fixed action choice ordering,
+– depth-first, with randomised action choice ordering,
+– best first,
+– A*
+
+Ex 7:
+
+Things to change:
+loop_check
+randomise
+Change size of grid 
+Change heuristics
+Make heuristics
+Change Node limit
+No. of blocks
+Cost
+
+Track:
+Total nodes generated
+Nodes discarded by loop_check
+Nodes tested (by goal_test)
+Nodes left in queue
+Log time it takes (graphs?)
+
+Things that effect difficulty:
+Initial state
+No of blocks
+Size of grid
+Loop check?
+
+
+First test:
+4x4? and 8x7?
+Change each algorithm
+Loop check and randomise same
+No of nodes the same 5000 and if fail increase by 5000
+No of blocks the same 
+Make good heuristic
+Cost same throughout
+
+First test:
+Algorithms
+
+Second test:
+Size of grid
+
+Third test:
+heuristic
+
+Fourth test:
+No of blocks
+
+Part B:
+Robot but mopping and vaccuming. heuristic: time it takes to dry
