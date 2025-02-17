@@ -53,3 +53,4 @@ No of blocks
 
 Part B:
 Robot but mopping and vaccuming. heuristic: time it takes to dry
+
