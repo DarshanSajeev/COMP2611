@@ -52,5 +52,15 @@ Fourth test:
 No of blocks
 
 Part B:
-Robot but mopping and vaccuming. heuristic: time it takes to dry
+3 Conveyor belts all with their 
+
+Parcels:
+ID
+Date
+Priority: first or second  
+
+Conveyor:
+Locations 
+How full
+
 
